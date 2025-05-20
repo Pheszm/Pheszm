@@ -1,5 +1,5 @@
 ### Hi there👋
-### Learning is the Key⚡
+### Consistency is the Key⚡
 <!--
 **Pheszm/Pheszm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
