@@ -1,4 +1,7 @@
 ### Hi there👋
+
+![Demo GIF](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
+
 ### Consistency is the Key⚡
 <!--
 **Pheszm/Pheszm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
