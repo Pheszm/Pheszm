@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=200&section=header&text=Web%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Experiences&descAlignY=55&descSize=18" />
 </p>
 
-<!-- Hero Section with 3D Animation -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
-</p>
-
 <!-- Animated Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Laravel+Backend+Developer;Next.js+and+React+Frontend+Specialist;Building+Scalable+Web+Applications;Turning+Ideas+Into+Reality" />
