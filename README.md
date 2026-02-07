@@ -27,7 +27,7 @@ const developer = {
         frontend: ["Next.js", "React", "JavaScript", "CSS", "Tailwind"],
         languages: ["C++", "C#", "Python", "Lua"],
         design: ["Photoshop", "Canva"],
-        hardware: ["Arduino", "Computer Hardware", "Networking"]
+        hardware: ["Arduino", "Computer Hardware", "Networking"],
         gamedev: ["Roblox Studio", "Luau Scripting"]
     },
     
