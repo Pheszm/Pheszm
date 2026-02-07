@@ -77,11 +77,7 @@ const developer = {
   <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" /></a>
 </p>
 
-<!-- Animated Stats Cards -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pheszm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=06b6d4&text_color=93c5fd&ring_color=3B82F6&cache_seconds=86400" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pheszm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=93c5fd&cache_seconds=86400" height="180" />
-</p>
+
 
 <!-- Animated Streak Stats -->
 <p align="center">
