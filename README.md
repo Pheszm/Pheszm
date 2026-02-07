@@ -1,3 +1,46 @@
+<!-- Animated Wave Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Web%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Experiences&descAlignY=55&descSize=18" />
+</p>
+
+<!-- Hero Section with 3D Animation -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</p>
+
+<!-- Animated Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Laravel+Backend+Developer;Next.js+and+React+Frontend+Specialist;Building+Scalable+Web+Applications;Turning+Ideas+Into+Reality" />
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
+
+<!-- Profile Summary with Animation -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+```typescript
+const developer = {
+    name: "Carl Gallardo",
+    focus: ["Backend Architecture", "Frontend Design", "Full-Stack Solutions"],
+    currently: "Building scalable, high-performance applications",
+    mission: "Pushing the boundaries of technology and innovation",
+    
+    techStack: {
+        backend: ["Laravel", "PHP", "MySQL", "Prisma"],
+        frontend: ["Next.js", "React", "JavaScript", "CSS", "Tailwind"],
+        languages: ["C++", "C#", "Python", "Lua"],
+        design: ["Photoshop", "Canva"],
+        hardware: ["Arduino", "Computer Hardware", "Networking"]
+    },
+    
+    workingOn: "Full-stack web applications",
+    learning: "Advanced system architecture patterns",
+    available: "Open to exciting opportunities"
+};
+```
+
 <!-- Animated Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
