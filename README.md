@@ -23,10 +23,11 @@ const developer = {
     mission: "Pushing the boundaries of technology and innovation",
     
     techStack: {
-        backend: ["Laravel", "PHP", "RESTful APIs"],
-        frontend: ["Next.js", "React", "TypeScript"],
-        database: ["MySQL", "Prisma ORM"],
-        tools: ["Git", "Docker", "VS Code"]
+        backend: ["Laravel", "PHP", "MySQL", "Prisma"],
+        frontend: ["Next.js", "React", "JavaScript", "CSS", "Tailwind"],
+        languages: ["C++", "C#", "Python", "Lua"],
+        design: ["Photoshop", "Canva"],
+        hardware: ["Arduino", "Computer Hardware", "Networking"]
     },
     
     workingOn: "Full-stack web applications",
@@ -43,8 +44,36 @@ const developer = {
 <!-- Animated Technology Stack -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Technology Stack
 
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Programming Languages
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=laravel,nextjs,react,prisma,mysql,typescript,javascript,git,github,vscode,docker,tailwind&perline=6&theme=dark" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp,cs,python,javascript,lua,php&theme=dark" /></a>
+</p>
+
+### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="25"> Frontend Development
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=nextjs,react,css,tailwind,html&theme=dark" /></a>
+</p>
+
+### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="25"> Backend & Database
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=laravel,php,mysql,prisma&theme=dark" /></a>
+</p>
+
+### <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="25"> Design Tools
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=photoshop&theme=dark" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" />
+</p>
+
+### <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="25"> Hardware & Embedded Systems
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="48" height="48" />
+</p>
+
+### <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="25"> Tools & Platforms
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" /></a>
 </p>
 
 <!-- Animated Stats Cards -->
@@ -71,28 +100,28 @@ const developer = {
     <td align="center" width="50%">
       <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50" />
       <br><b>Backend Excellence</b>
-      <br>Laravel APIs | Authentication
-      <br>Database Optimization | RESTful Design
+      <br>Laravel APIs | PHP Development
+      <br>MySQL & Prisma ORM | RESTful Design
     </td>
     <td align="center" width="50%">
       <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50" />
       <br><b>Frontend Mastery</b>
       <br>Next.js | React Patterns
-      <br>Clean UI | Performance Optimization
+      <br>Tailwind CSS | Performance Optimization
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="50" />
-      <br><b>Database Design</b>
-      <br>MySQL | Prisma ORM
-      <br>Schema Design | Query Optimization
+      <br><b>Multi-Language Expertise</b>
+      <br>C++ | C# | Python | Lua
+      <br>JavaScript | TypeScript
     </td>
     <td align="center" width="50%">
       <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" />
-      <br><b>Full-Stack Integration</b>
-      <br>Role-Based Systems
-      <br>Maintainability | Scalability
+      <br><b>Hardware & Networking</b>
+      <br>Arduino Development
+      <br>Computer Hardware | Network Systems
     </td>
   </tr>
 </table>
