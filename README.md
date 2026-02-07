@@ -74,7 +74,7 @@ const developer = {
 
 ### <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="25"> Tools & Platforms
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,npm,yarn&theme=dark" /></a>
 </p>
 
 <!-- Animated Stats Cards -->
