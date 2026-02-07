@@ -28,6 +28,7 @@ const developer = {
         languages: ["C++", "C#", "Python", "Lua"],
         design: ["Photoshop", "Canva"],
         hardware: ["Arduino", "Computer Hardware", "Networking"]
+        gamedev: ["Roblox Studio", "Luau Scripting"]
     },
     
     workingOn: "Full-stack web applications",
