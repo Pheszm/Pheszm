@@ -74,7 +74,18 @@ const developer = {
 
 ### <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="25"> Tools & Platforms
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,npm,yarn&theme=dark" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" /></a>
+</p>
+
+
+<!-- Animated Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pheszm&theme=blue-green&hide_border=true&background=0D1117&ring=3B82F6&fire=06b6d4&currStreakLabel=93c5fd" />
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
 
 <!-- Development Focus with Icons -->
