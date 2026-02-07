@@ -77,22 +77,6 @@ const developer = {
   <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,npm,yarn&theme=dark" /></a>
 </p>
 
-<!-- Animated Stats Cards -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pheszm&show_icons=true&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=06b6d4&text_color=93c5fd&ring_color=3B82F6" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pheszm&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=93c5fd" height="180" />
-</p>
-
-<!-- Animated Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pheszm&theme=blue-green&hide_border=true&background=0D1117&ring=3B82F6&fire=06b6d4&currStreakLabel=93c5fd" />
-</p>
-
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</p>
-
 <!-- Development Focus with Icons -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Development Focus
 
