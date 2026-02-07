@@ -1,80 +1,61 @@
-<!-- Animated Wave Header -->
+<!-- Animated Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=150&section=header&text=Carl%20Gallardo&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
 
-<!-- Hero Section with 3D Animation -->
+<!-- Animated Technology Stack -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Technology Stack
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Programming Languages
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp,cs,python,javascript,lua,php&theme=dark" /></a>
 </p>
 
-<!-- Animated Typing Effect -->
+### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="25"> Frontend Development
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Laravel+Backend+Developer;Next.js+%26+React+Specialist;Full-Stack+Web+Developer" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=nextjs,react,css,tailwind,html&theme=dark" /></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> About Me
-```typescript
-const developer = {
-    name: "Carl Gallardo",
-    focus: ["Backend", "Frontend", "Full-Stack"],
-    techStack: {
-        backend: ["Laravel", "PHP", "MySQL", "Prisma"],
-        frontend: ["Next.js", "React", "Tailwind CSS"],
-        languages: ["JavaScript", "TypeScript", "C++", "C#", "Python"],
-        tools: ["Git", "VS Code", "Arduino"]
-    }
-};
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
-
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> Programming Languages
+### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="25"> Backend & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,javascript,typescript,lua,php&theme=dark" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=laravel,php,mysql,prisma&theme=dark" /></a>
 </p>
 
-### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="20"> Frontend Development
+### <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="25"> Design Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,css,tailwind,html&theme=dark" />
-</p>
-
-### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="20"> Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,prisma&theme=dark" />
-</p>
-
-### <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="20"> Design Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=photoshop&theme=dark" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=photoshop&theme=dark" /></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" />
 </p>
 
-### <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="20"> Hardware & Tools
+### <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="25"> Hardware & Embedded Systems
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,git,github,vscode&theme=dark" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="48" height="48" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
-
+### <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="25"> Tools & Platforms
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pheszm&show_icons=true&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=06b6d4&text_color=93c5fd" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pheszm&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=93c5fd" height="165" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /></a>
 </p>
 
+<!-- Animated Stats Cards -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pheszm&show_icons=true&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=06b6d4&text_color=93c5fd&ring_color=3B82F6" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pheszm&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=93c5fd" height="180" />
+</p>
+
+<!-- Animated Streak Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pheszm&theme=blue-green&hide_border=true&background=0D1117&ring=3B82F6&fire=06b6d4&currStreakLabel=93c5fd" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Development Focus
+<!-- Development Focus with Icons -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Development Focus
 
 <table align="center">
   <tr>
@@ -88,7 +69,7 @@ const developer = {
       <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50" />
       <br><b>Frontend Mastery</b>
       <br>Next.js | React Patterns
-      <br>Tailwind CSS | Performance
+      <br>Tailwind CSS | Performance Optimization
     </td>
   </tr>
   <tr>
@@ -100,34 +81,51 @@ const developer = {
     </td>
     <td align="center" width="50%">
       <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" />
-      <br><b>Hardware & Embedded</b>
+      <br><b>Hardware & Networking</b>
       <br>Arduino Development
-      <br>Computer Hardware
+      <br>Computer Hardware | Network Systems
     </td>
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Connect With Me
+<!-- Animated Activity Graph -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Contribution Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pheszm&theme=tokyonight" />
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
+
+<!-- Animated Connect Section -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/carl-gallardo-138947354/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
   <a href="https://github.com/Pheszm">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-1e3a8a?style=for-the-badge&logo=github&logoColor=white&labelColor=1e3a8a" />
   </a>
   <a href="mailto:carlwynegallardo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3B82F6" />
   </a>
   <a href="https://carlgallardo.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=06b6d4" />
   </a>
 </p>
 
+<!-- Animated Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pheszm&label=Profile%20Views&color=3B82F6&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Pheszm&label=Profile%20Views&color=3B82F6&style=for-the-badge" />
 </p>
 
 <!-- Snake Animation -->
@@ -136,4 +134,6 @@ const developer = {
 </p>
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:3b82f6,100:1e3a8a&height=100&section=footer" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:3b82f6,100:1e3a8a&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" />
+</p>
